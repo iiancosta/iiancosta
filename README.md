@@ -1,6 +1,6 @@
 ![Banner](https://github.com/iiancosta/iiancosta/blob/main/Banner%203.png)
 
-Sou um estudante de Ciência da computação que mora no Brasil. Estou procurando colocar em prática meus conhecimentos obtidos em cursos de análise e ciência de dados. Gosto de aprender coisas novas novas sobre Power BI, Python, data visualization, Machine Learning. 
+Sou um estudante de Ciência da computação que mora no Brasil. Estou procurando colocar em prática meus conhecimentos obtidos em cursos de análise e ciência de dados. Gosto de aprender coisas novas novas sobre Power BI, Python, data visualization, Machine Learning e banco de dados. 
 
 Costumo anotar o que estou estudando em arquivos markdown para sempre ter acesso quando desejo rever, sinta-se à vontade para criar uma solicitação pull para contribuir com qualquer um dos meus repositórios.
 
