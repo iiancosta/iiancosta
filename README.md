@@ -1,7 +1,7 @@
 ![Banner](https://github.com/iiancosta/iiancosta/blob/main/Banner%203.png)
 
 - 🖥️ Procuro por estágio 
-- 🌱 Atualmente estou aprendendo JS, React Native.
+- 🌱 Atualmente estou fazendo projetos com React Native.
 - 😀 Gosto de codificar, ler e ter conversas produtivas nas horas vagas.
 
 
